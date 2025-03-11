@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class CoderunnerTest {
+public class QueensSolver {
     
     private static final int BOARD_SIZE = 8;
     private static final Random random = new Random();
