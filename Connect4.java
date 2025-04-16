@@ -1,7 +1,7 @@
 package Connect4;
 import java.util.*;
 
-public class Main {
+public class Connect4 {
 
 	public static void main(String[] args) {
 		int rows = 6, column = 7;
